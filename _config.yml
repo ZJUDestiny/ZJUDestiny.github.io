@@ -11,9 +11,9 @@ title                    : "Rui ZHENG"
 title_separator          : "-"
 name                     : &name "Rui ZHENG"
 description              : &description "PhD candidate in Westlake University"
-url                      : https://ruizheng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ZJUDestiny.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ZJUDestiny/ruizheng.github.io"
+repository               : "ZJUDestiny.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
